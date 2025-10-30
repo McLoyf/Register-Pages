@@ -1,0 +1,14 @@
+[
+  {
+    "encrypted": "bb92e9f0e59d2657c84a73ab820bdefd",
+    "hashedPassword": "$2b$10$cx1F66FZsTna0k8dO7.LPOhPFxhnPXcd/sdVZIwFhbrG9WlqCruOi",
+    "hexKey": "c6241be341cbb74e55d7cb0895cd24795a5021ed3a2fa8c0399c0e3be7f3a60b",
+    "hexIv": "e6ae7476b8d81013edbf60537fa5c586"
+  },
+  {
+    "encrypted": "db61218a0deda439545445398267f428",
+    "hashedPassword": "$2b$10$OZj.dcs55hoJ8vuaUxvQTucdWVuscOf43wLuzE6i5KrGEqTigdoUK",
+    "hexKey": "6df3f99d22f9bb5b06ac387e92354a84f723c824c6076946b47ee117ae7fc944",
+    "hexIv": "4034150ea1e3deeda6faef74a4ef0380"
+  }
+]
